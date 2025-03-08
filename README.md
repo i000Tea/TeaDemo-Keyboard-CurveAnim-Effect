@@ -8,7 +8,7 @@
 
 ## 实现方式
 
-- 使用 DOTween 动画系统
+- 使用 DOTween 动画插件
 - 结合 Unity AnimationCurve 曲线控制
 - 自定义按键交互逻辑
 
@@ -16,12 +16,12 @@
 
 ### 原版效果
 
-- Bilibili: [视频搬运](https://www.bilibili.com/video/BV1oSPZebEcn)
-- YouTube: [原版视频](https://www.youtube.com/watch?v=azgoEvlj7OM)
+- Bilibili: <a href="https://www.bilibili.com/video/BV1oSPZebEcn" target="_blank">视频搬运</a>
+- YouTube: <a href="https://www.youtube.com/watch?v=azgoEvlj7OM" target="_blank">原版视频</a>
 
 ### 复刻效果
 
-- Bilibili: [Unity 复刻版演示](https://www.bilibili.com/video/BV1HjRMYiEZc)
+- Bilibili: <a href="https://www.bilibili.com/video/BV1HjRMYiEZc" target="_blank">Unity 复刻版演示</a>
 
 ## 注意事项
 
